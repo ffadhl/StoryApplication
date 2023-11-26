@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApplication</string>
+    <string name="login">Sign in</string>
+    <string name="signup">Register</string>
+    <string name="title_welcome">Welcome to Story App!</string>
+    <string name="message_welcome">Story app is the key to uncover and explore the world, discover fascinating stories, and enjoy unlimited experiences. Explore your world!</string>
+    <string name="title_login">Welcome!</string>
+    <string name="message_login">Enter your data first</string>
+    <string name="title_signup">Welcome to the club!</string>
+    <string name="message_signup">Complete your details below</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_main">Welcome to Story App.</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Log out</string>
+    <string name="message_button">Fill in data</string>
+    <string name="storyPhoto">Story photo</string>
+    <string name="desc">Description</string>
+    <string name="createdDate">Date created</string>
+    <string name="emailError">Invalid email</string>
+    <string name="inputName">Enter a name</string>
+    <string name="inputEmail">Enter email</string>
+    <string name="inputPassword">Enter password</string>
+    <string name="passwordValidation">Password must not be less than 8 characters</string>
+    <string name="cdArrowBack">Back button</string>
+    <string name="cdShape">Shape figure</string>
+    <string name="cdSignUpImage">Image on the registration page</string>
+    <string name="cdSignInImage">Image on the sign in page</string>
+    <string name="cdStoryPhotos">Story Image</string>
+    <string name="cdWelcomeImage">Image on the Welcome page</string>
+    <string name="camera">Camera</string>
+    <string name="Gallery">Gallery</string>
+    <string name="addStory">Add Story</string>
+    <string name="upload">Upload</string>
+    <string name="cdAdd">Add</string>
+    <string name="setting">Setting</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">retry</string>
+</resources>

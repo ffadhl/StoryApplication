@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.StoryApplication" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/blueDark</item>
+    </style>
+
+    <style name="Theme.StoryApplication" parent="Base.Theme.StoryApplication" />
+</resources>

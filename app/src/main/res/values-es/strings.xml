@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación Story</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="signup">Registrarse</string>
+    <string name="title_welcome">¡Bienvenido a la aplicación Story!</string>
+    <string name="message_welcome">La aplicación Story es la clave para descubrir y explorar el mundo, descubrir historias fascinantes y disfrutar de experiencias ilimitadas. ¡Explora tu mundo!</string>
+    <string name="title_login">¡Bienvenido!</string>
+    <string name="message_login">Ingrese sus datos primero</string>
+    <string name="title_signup">¡Bienvenido a unirse!</string>
+    <string name="message_signup">Completa tus datos a continuación</string>
+    <string name="name">Nombre</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="message_main">Bienvenido a la aplicación Story.</string>
+    <string name="greeting">Hola %1$s,</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="message_button">Rellenar datos</string>
+    <string name="storyPhoto">Foto de la storia</string>
+    <string name="desc">Descripción</string>
+    <string name="createdDate">Fecha de creación</string>
+    <string name="emailError">Email no válido</string>
+    <string name="inputName">Ingrese un nombre</string>
+    <string name="inputEmail">Ingrese un email</string>
+    <string name="inputPassword">Ingrese la contraseña</string>
+    <string name="passwordValidation">La contraseña no debe tener menos de 8 caracteres</string>
+    <string name="cdArrowBack">Botón Atrás</string>
+    <string name="cdShape">Figura de forma</string>
+    <string name="cdSignUpImage">Imagen en la página de registro</string>
+    <string name="cdSignInImage">magen en la página de inicio de sesión</string>
+    <string name="cdStoryPhotos">Imágenes de la historia</string>
+    <string name="cdWelcomeImage">magen en la página de bienvenida</string>
+    <string name="camera">Cámara</string>
+    <string name="Gallery">Galería</string>
+    <string name="addStory">gregar historia</string>
+    <string name="upload">Subir</string>
+    <string name="cdAdd">Agregar</string>
+    <string name="setting">Configuración</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satélite</string>
+    <string name="terrain_type">terreno</string>
+    <string name="hybrid_type">Híbrido</string>
+    <string name="retry">retry</string>
+</resources>
